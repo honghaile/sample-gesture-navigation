@@ -1,0 +1,9 @@
+<!-- values-v29/styles.xml: -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <!-- Optional, but recommended for full edge-to-edge rendering -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
